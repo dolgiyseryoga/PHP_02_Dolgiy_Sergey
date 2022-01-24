@@ -42,8 +42,7 @@
     // 4
     echo '<strong style=color:green> 4 Zadacha </strong><br \>';
     $str = 'abcde';
-    //$str1 = explode(" ", $pizza);
-    if ($str[0] == 'a') {
+        if ($str[0] == 'a') {
         echo 'Да';
     } else {
         echo 'Нет';
